@@ -3,4 +3,4 @@ Easy On The Eyes Dark KDE Window Decoration theme.
 
 <b>SCREENSHOT</b>
 
-<img src="https://cdn.scrot.moe/images/2018/04/13/screen1245.jpg" alt="screen1245.jpg" border="0" />
+<img src="https://www.cjoint.com/doc/19_11/IKDjEWE0xAR_screen254468.jpg" alt="screen254468.jpg" border="0" />
